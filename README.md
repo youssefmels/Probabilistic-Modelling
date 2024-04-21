@@ -1,4 +1,4 @@
-Poem generating was achieved using 2 models, Markov chain and Bayesian network. It was trained on: https://www.kaggle.com/datasets/paultimothymooney/poetry
+Poem generating was achieved using 2 models, the Markov chain and Bayesian network using: https://www.kaggle.com/datasets/paultimothymooney/poetry
 
 Markov Chain:
 
